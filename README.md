@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A self-taught developer</h3>
 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=probably-LUCA&label=Profile%20views&color=270a75&style=flat" alt="probably-LUCA" /> </p>
+
 - 🔭 I’m currently working on [portfolio](https://github.com/probably-LUCA/portfolio)
 
 - 🌱 I’m currently learning **HTML5, css, javascript**
