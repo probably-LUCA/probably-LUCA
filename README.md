@@ -21,5 +21,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=probably-LUCA&hide=stars,sprs,issues&count_private=true&show_icons=true&theme=dark">
  </p>
  
- <br>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=probably-LUCA&theme=react-dark">
